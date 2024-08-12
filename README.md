@@ -1,8 +1,7 @@
 
 # Project Title
 
-CRUD APPS With Login Role USer And Admin if admin read data from database local then show it update and delete 
-but it normal user fetch data from api then using pagination to endless scroll
+APlikasi login dari bank danamon untuk test
 
 
 # Tech Stack
